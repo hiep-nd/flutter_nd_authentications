@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590918060163",
+    "firebase_url": "https://fir-playground-cab3a.firebaseio.com",
+    "project_id": "fir-playground-cab3a",
+    "storage_bucket": "fir-playground-cab3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590918060163:android:f35dd7d9bdd76760b7b3b6",
+        "android_client_info": {
+          "package_name": "vn.neodata.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590918060163-r16c4pvc7f8rmb9te6c8qjf3jhpbir3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoM9uIf_1JX6YXlO6fDzrjKSP1Wg5ouwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590918060163-r16c4pvc7f8rmb9te6c8qjf3jhpbir3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590918060163-cnl7nm6ek5328a22075p10m9qfa2t1ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.neodata.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

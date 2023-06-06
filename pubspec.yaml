@@ -1,0 +1,32 @@
+name: nd_authentications
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  built_collection: ^5.0.0
+  built_value: ^8.0.0
+  firebase_auth: ^4.0.0
+  flutter_secure_storage: ^8.0.0
+  nd_core_utils: ^1.0.0
+  nd_keys_observer: ^1.0.0
+  nd_mvvm: ^1.0.0
+  nd_utils: ^1.0.0
+  shared_preferences : ^2.0.0
+  uuid: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  built_value_generator: 
+  build_runner:
+
+flutter:

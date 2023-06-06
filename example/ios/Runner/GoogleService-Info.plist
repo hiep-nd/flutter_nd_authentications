@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>590918060163-cnl7nm6ek5328a22075p10m9qfa2t1ud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.590918060163-cnl7nm6ek5328a22075p10m9qfa2t1ud</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOSf8CfpK5D-39mKY4bmTTT1NuZEhgc_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>590918060163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.neodata.example</string>
+	<key>PROJECT_ID</key>
+	<string>fir-playground-cab3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-playground-cab3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:590918060163:ios:90b80b523abf329fb7b3b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-playground-cab3a.firebaseio.com</string>
+</dict>
+</plist>
